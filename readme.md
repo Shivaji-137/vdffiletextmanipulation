@@ -2,7 +2,9 @@
 # for text modification/manipulation of the .vdf file obtained from vedas software for bachelor thesis. For further enquiries, contact us.
 
 Run this from your linux terminal or terminal/prompt in windows.
+
 Pandas must be installed if not.
+
 To install pandas, pip install pandas
 
 Usage: 
