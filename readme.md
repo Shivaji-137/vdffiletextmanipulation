@@ -9,7 +9,7 @@ To install pandas, pip install pandas
 
 Usage: 
 
-   python vdftoextractor.py <filename> <limit> <savefile_path>
+   python  vdftoextractor.py  filename limit savefile_path
    
    filename: a full path of .vdf file. works Only for .vdf file
    
