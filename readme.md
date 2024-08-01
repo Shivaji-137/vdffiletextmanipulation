@@ -20,3 +20,8 @@ Usage:
    for example:
    
          python vdftoextractor.py /home/shivaji/Downloads/freqgas.vdf 10 output.txt 
+
+
+vdftoextractor.ipynb is jupyter notebook I first wrote code as a scratch
+
+sample input is freqgas.vdf and sample output result is .csv file in output folder
